@@ -7,3 +7,4 @@
 - Cedrick Bienvenue
 -  Saddock Kabandana
 -  saddockAime
+-  Jean Baptiste Niyikiza
