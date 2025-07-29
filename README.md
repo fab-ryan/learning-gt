@@ -7,6 +7,4 @@
 - Cedrick Bienvenue
 -  Saddock Kabandana
 -  saddockAime
--  Jean Baptiste Niyikiza
-- ikundabayo placide
 - Ishimwe Yvan
