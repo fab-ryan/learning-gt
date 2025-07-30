@@ -11,4 +11,3 @@
 - ikundabayo placide
 -  Clebert Sabin GANZA
 - Ishimwe Emile
--Singizwa Serge
