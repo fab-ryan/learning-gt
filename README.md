@@ -11,4 +11,4 @@
 - ikundabayo placide
 -  Clebert Sabin GANZA
 - Ishimwe Emile
-- Fabrice Byiringiro
+- Serge Singizwa
