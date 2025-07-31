@@ -12,3 +12,4 @@
 -  Clebert Sabin GANZA
 - Ishimwe Emile
 - Serge Singizwa
+- Fabrice Byiringiro
